@@ -116,3 +116,19 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+#https://github.com/prose/prose/wiki/Getting-Started
+prose:
+  metadata:
+    _posts:
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
