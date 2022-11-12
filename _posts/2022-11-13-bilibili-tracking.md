@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 现在 阿 B 的每个页面的 URL 里面几乎都加了一个 `vd_source` 参数，使用 AdGuard 在页面导航的时候去掉了，阿 B 后面又会用 JS 加上来。
   https://www.v2ex.com/t/883406
