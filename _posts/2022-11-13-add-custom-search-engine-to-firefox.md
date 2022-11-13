@@ -15,4 +15,8 @@ To set the preferred language of the search results, use &lr=lang_XX
   https://stackoverflow.com/questions/41368674/google-search-language-from-url
   https://stackoverflow.com/questions/14271747/what-does-hl-stand-for
   
+簡體中文: lang_zh-CN
+英文: lang_en
+日文: lang_ja
+  
 kw: google "lang_zh-TW"
