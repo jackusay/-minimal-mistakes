@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Add a bookmark with that URL
   https://superuser.com/questions/7327/how-to-add-a-custom-search-engine-to-firefox
